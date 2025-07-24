@@ -7,7 +7,7 @@ This project analyzes fictional retail sales data using SQL and visualizes insig
 ## 📁 Project Structure
 
 
-<img width="403" height="446" alt="image" src="https://github.com/user-attachments/assets/09ce0e90-dc38-454d-9b0d-ca82828e5d2d" />
+<img width="505" height="350" alt="image" src="https://github.com/user-attachments/assets/b2c1844f-039c-4daf-b5cd-55d096f54dfd" />
 
 
 ---
