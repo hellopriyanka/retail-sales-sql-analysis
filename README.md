@@ -6,17 +6,7 @@ This project analyzes fictional retail sales data using SQL and visualizes insig
 
 ## 📁 Project Structure
 
-retail-sales-sql-analysis/
-├── data/
-│ ├── customers.csv
-│ ├── products.csv
-│ ├── orders.csv
-│ └── order_items.csv
-├── schema.sql
-├── data.sql
-├── analysis_queries.sql
-├── Retail-Sales-Insights.pbix
-└── README.md
+
 <img width="403" height="446" alt="image" src="https://github.com/user-attachments/assets/09ce0e90-dc38-454d-9b0d-ca82828e5d2d" />
 
 
