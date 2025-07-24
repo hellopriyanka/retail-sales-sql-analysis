@@ -57,8 +57,9 @@ Queries in `analysis_queries.sql` include:
 ## 📊 Power BI Dashboard
 
 The Power BI report file `Retail-Sales-Insights.pbix` visualizes the insights using:
+<img width="1226" height="678" alt="image" src="https://github.com/user-attachments/assets/bb522b41-0a99-4fae-b7a5-da1eaeebcf7e" />
 
-- Cards for KPIs (Revenue, Order Count)
+- Cards for KPIs (Revenue)
 - Bar and line charts for trends
 - Slicers for filtering by product_name
 ---
